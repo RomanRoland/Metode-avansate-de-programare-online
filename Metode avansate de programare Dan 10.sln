@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metode avansate de programare Dan 10", "Metode avansate de programare Dan 10\Metode avansate de programare Dan 10.csproj", "{0233003C-7B27-4BAF-8A98-5426046D4157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0233003C-7B27-4BAF-8A98-5426046D4157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0233003C-7B27-4BAF-8A98-5426046D4157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0233003C-7B27-4BAF-8A98-5426046D4157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0233003C-7B27-4BAF-8A98-5426046D4157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FEA06D9-4C6F-4D2B-B99D-032B0BE068D3}
+	EndGlobalSection
+EndGlobal
